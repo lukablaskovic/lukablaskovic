@@ -1,6 +1,6 @@
 ## Pozdrav 👋
 
-Ispod možete pronaći repozitorije s materijalima iz kolegija za koje držim vježbe na [FIPU](https://fipu.unipu.hr/).
+U nastavku možete pronaći repozitorije s materijalima za kolegije na kojima držim vježbe na [FIPU](https://fipu.unipu.hr/).
 
 ## 🎓 FIPU Nastava
 
